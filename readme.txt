@@ -1,0 +1,1 @@
+scrapy spider on http://qiushibaike.com/ 
